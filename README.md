@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AndresCorralSe/AndresCorralSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:robot: **Ingeniero en Mecatrónica**  
+:bar_chart: **Data Engineer en formación**  
+:gear: **Apasionado por la automatización y la optimización de procesos**  
+:computer: **Python, SQL, Cloud & Big Data**  
+:books: **Airflow y spark**  
+:rocket: **Siempre en busca de nuevos retos**
 
-Here are some ideas to get you started:
+### Vías de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andréscorral)
+[![Email](https://img.shields.io/badge/Email-andrescorralse%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:andrescorralse@gmail.com)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AndresCorralSe/AndresCorralSe)
