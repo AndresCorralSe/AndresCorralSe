@@ -3,7 +3,7 @@
 ## 🧑‍💻 About me
 
 - 📍 Location: Durango, México
-- 🎓 Studies: Ingeniería en Mecatrónica
+- 🎓 Studies: Mechatronics Engineer
 
 I'm a mechatronics engineer passionate about data, machine learning, and data engineering.  
 I enjoy automating processes by combining modern technologies with solid engineering foundations—always aiming to create efficient solutions with real-world impact.
